@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="widget_holiday">#ff8a65</color>
+
+    <color name="primary">#607d8b</color>
+    <color name="primary_dark">#263238</color>
+    <color name="accent">#b0bec5</color>
+
+    <color name="text_drawer">#555</color>
+    <color name="text_holiday">#d84315</color>
+    <color name="holiday">#fc8058</color>
+    <color name="text_day">#333</color>
+    <color name="text_day_name">#117faa</color>
+    <color name="month_switch">#77a</color>
+
+    <color name="divider">#e0e0e0</color>
+    <color name="current_day">#ff7043</color>
+    <color name="select_day">#fefefe</color>
+    <color name="select_day_background">#117faa</color>
+    <color name="select_holiday_background">#d84315</color>
+    <color name="drawer_background">#f4f4f4</color>
+    <color name="drawer_select">#eeeeee</color>
+
+    <color name="day">#333</color>
+</resources>
